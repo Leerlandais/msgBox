@@ -1,0 +1,23 @@
+body {
+    background-color: #f4d292;
+}
+
+fieldset{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 20vw;
+    margin: 15vh auto 0;
+}
+
+.myButtons {
+    margin: 5px auto;
+    width: 105px;
+    display: block;
+
+}
+
+
+textarea {
+    background-color: antiquewhite;
+}
